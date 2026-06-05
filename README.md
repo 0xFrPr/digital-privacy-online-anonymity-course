@@ -113,14 +113,6 @@ For best results, study the guide in order:
 7. Finish with **Chapters 10–12** to understand anonymous identities, sharing, maintenance, backups, and cleanup.
 8. Apply **Practical Toolkit 4** as the final operational checklist.
 
----
-
-Credits :
-Prepared & Designed by Fayz Alharthi
-
-License :
-This project is shared for educational purposes.
-You may use it as a learning reference while preserving proper credit.
 
 ---
 
@@ -263,3 +255,26 @@ digital-privacy-online-anonymity-course/
 ├── README.md
 ├── cover.png
 └── Digital Privacy & Online Anonymity Course.pdf
+```
+
+---
+
+## Credits | الاعتمادات
+
+Prepared & Designed by **Fayz Alharthi**
+
+---
+
+## License | الترخيص
+
+This project is shared for educational and awareness purposes only.  
+You may use it as a learning reference while preserving proper credit to the author.
+
+هذا المشروع منشور لأغراض تعليمية وتوعوية فقط.  
+يمكن استخدامه كمرجع للتعلم مع الحفاظ على الحقوق وذكر اسم صاحب العمل.
+
+---
+
+
+
+
