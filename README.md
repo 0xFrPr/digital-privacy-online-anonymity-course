@@ -19,7 +19,7 @@ This repository contains a complete Arabic guide in PDF format about **Digital P
 
 | File | Description | Link |
 |---|---|---|
-| Full PDF Guide | الدليل الكامل بصيغة PDF ويحتوي على جميع الفصول والحزم العملية | [Open PDF Guide](./Digital-Privacy-Online-Anonymity-Course.pdf) |
+| Full PDF Guide | الدليل الكامل بصيغة PDF ويحتوي على جميع الفصول والحزم العملية | [Open PDF Guide](./Digital Privacy & Online Anonymity Course.pdf) |
 
 ---
 
@@ -115,6 +115,143 @@ For best results, study the guide in order:
 
 ---
 
+Credits :
+Prepared & Designed by Fayz Alharthi
+
+License :
+This project is shared for educational purposes.
+You may use it as a learning reference while preserving proper credit.
+
+---
+
+## Useful Links & Resources | روابط وأدوات مفيدة
+
+This section contains the external links mentioned throughout the guide, organized by category.
+
+---
+
+## 1. RFID & Physical Privacy Tools
+
+| Tool / Search | Purpose | Link |
+|---|---|---|
+| RFID Blocking Card | البحث عن بطاقات حجب RFID | https://www.amazon.com/s?k=RFID+blocking+card |
+| RFID Blocking Wallet | البحث عن محافظ حجب RFID | https://www.amazon.com/s?k=RFID+blocking+wallet |
+| Faraday Pouch for Phone | البحث عن حقائب عزل الهاتف | https://www.amazon.com/s?k=faraday+pouch+for+phone |
+
+---
+
+## 2. Privacy Operating Systems & Anonymous Browsing
+
+| Tool | Purpose | Link |
+|---|---|---|
+| Tor Browser | متصفح للتصفح عبر شبكة Tor | https://www.torproject.org/download/ |
+| Tor Check | التحقق من أن الاتصال يمر عبر Tor | https://check.torproject.org/ |
+| Tails OS | نظام Live USB يركز على الخصوصية | https://tails.net/ |
+| Tails Installation Guide | دليل تثبيت Tails الرسمي | https://tails.net/install/ |
+| Whonix | بيئة عزل تعتمد على Gateway وWorkstation | https://www.whonix.org/ |
+| Qubes OS | نظام عزل متقدم يعتمد على compartmentalization | https://www.qubes-os.org/ |
+
+---
+
+## 3. Leak Testing & Browser Fingerprinting
+
+| Tool | Purpose | Link |
+|---|---|---|
+| WhatIsMyIP | فحص عنوان IP العام | https://www.whatismyip.com/ |
+| DNS Leak Test | فحص تسريبات DNS | https://www.dnsleaktest.com/ |
+| BrowserLeaks | فحص WebRTC, Canvas, Fonts, WebGL وغيرها | https://browserleaks.com/ |
+| Cover Your Tracks - EFF | فحص بصمة المتصفح ومدى تميزها | https://coveryourtracks.eff.org/ |
+| MXToolbox Blacklists | فحص سمعة IP أو النطاق في القوائم السوداء | https://mxtoolbox.com/blacklists.aspx |
+
+---
+
+## 4. Password Managers & Identity Separation
+
+| Tool | Purpose | Link |
+|---|---|---|
+| KeePassXC | مدير كلمات مرور محلي ومفتوح المصدر | https://keepassxc.org/ |
+| Bitwarden | مدير كلمات مرور سحابي أو ذاتي الاستضافة | https://bitwarden.com/ |
+| SimpleLogin | إنشاء email aliases لفصل الهويات | https://simplelogin.io/ |
+| addy.io | خدمة aliases للبريد الإلكتروني | https://addy.io/ |
+
+---
+
+## 5. Metadata Removal & File Cleaning
+
+| Tool | Purpose | Link |
+|---|---|---|
+| ExifTool | فحص وإزالة Metadata من الصور والملفات | https://exiftool.org/ |
+| MAT2 | Metadata Anonymisation Toolkit | https://0xacab.org/jvoisin/mat2 |
+| VerExif | فحص وإزالة EXIF من الصور عبر الويب | https://www.verexif.com/en/ |
+
+> ملاحظة: للملفات الحساسة، الأفضل استخدام أدوات محلية مثل ExifTool أو MAT2 بدل رفع الملف إلى خدمة ويب.
+
+---
+
+## 6. Phishing, URL & Domain Checking
+
+| Tool | Purpose | Link |
+|---|---|---|
+| VirusTotal URL Scanner | فحص الروابط المشبوهة | https://www.virustotal.com/gui/home/url |
+| URLScan.io | تحليل صفحة ورؤية الطلبات والنطاقات | https://urlscan.io/ |
+| MXToolbox | فحص DNS, mail records, blacklists, domain reputation | https://mxtoolbox.com/ |
+| Have I Been Pwned | فحص هل البريد ظهر في تسريبات | https://haveibeenpwned.com/ |
+| Google Safe Browsing Transparency Report | فحص سمعة موقع | https://transparencyreport.google.com/safe-browsing/search |
+
+---
+
+## 7. Virtualization & Isolated Testing
+
+| Tool | Purpose | Link |
+|---|---|---|
+| VirtualBox | تشغيل أنظمة وهمية لاختبار الملفات والبيئات | https://www.virtualbox.org/ |
+| VMware Workstation Player | تشغيل أنظمة وهمية كبديل لـ VirtualBox | https://www.vmware.com/products/workstation-player.html |
+| Hybrid Analysis | تحليل ملفات وسلوك Malware | https://www.hybrid-analysis.com/ |
+| FileScan.IO | تحليل ملفات وروابط بشكل سلوكي | https://www.filescan.io/ |
+
+> ملاحظة: لا ترفع ملفات شخصية أو حساسة إلى خدمات تحليل عامة؛ لأنها قد تحفظ أو تشارك العينات.
+
+---
+
+## 8. File Editing, Redaction & Media Cleaning
+
+| Tool | Purpose | Link |
+|---|---|---|
+| GIMP | تحرير الصور وتنقيحها محليًا | https://www.gimp.org/ |
+| Audacity | تحرير الصوت وإزالة المقاطع الحساسة | https://www.audacityteam.org/ |
+
+---
+
+## 9. File Sharing, Collaboration & Storage Platforms
+
+| Platform | Purpose | Link |
+|---|---|---|
+| CryptPad | تعاون ومشاركة ملفات بتركيز على الخصوصية | https://cryptpad.fr/ |
+| AnonArchive | مشاركة أو أرشفة ملفات بشكل عام | https://anonarchive.org/ |
+| Filen | تخزين سحابي يركز على الخصوصية | https://filen.io/ |
+| IPFS | نشر وتوزيع ملفات بطريقة لامركزية | https://ipfs.tech/ |
+| Pinata | خدمة pinning لـ IPFS | https://www.pinata.cloud/ |
+
+---
+
+## 10. Summary by Use Case
+
+| Use Case | Recommended Links |
+|---|---|
+| Anonymous Browsing | Tor Browser, Tor Check |
+| Live Privacy OS | Tails OS, Tails Installation Guide |
+| VM-based Anonymity | Whonix, VirtualBox |
+| Advanced Compartmentalization | Qubes OS |
+| Leak Testing | DNS Leak Test, BrowserLeaks, Cover Your Tracks, WhatIsMyIP |
+| Password & Identity Separation | KeePassXC, Bitwarden, SimpleLogin, addy.io |
+| Metadata Cleaning | ExifTool, MAT2, VerExif |
+| Phishing & URL Analysis | VirusTotal, URLScan.io, Google Safe Browsing |
+| Malware/File Analysis | Hybrid Analysis, FileScan.IO |
+| Redaction & Editing | GIMP, Audacity |
+| File Sharing & Storage | CryptPad, Filen, IPFS, Pinata |
+
+
+---
 ## Repository Contents | محتويات المستودع
 
 ```text
