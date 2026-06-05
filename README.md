@@ -19,7 +19,7 @@ This repository contains a complete Arabic guide in PDF format about **Digital P
 
 | File | Description | Link |
 |---|---|---|
-| Full PDF Guide | الدليل الكامل بصيغة PDF ويحتوي على جميع الفصول والحزم العملية | [Open PDF Guide](./Digital Privacy & Online Anonymity Course.pdf) |
+| Full PDF Guide | الدليل الكامل بصيغة PDF ويحتوي على جميع الفصول والحزم العملية | [Open PDF Guide](./Digital%20Privacy%20%26%20Online%20Anonymity%20Course.pdf) |
 
 ---
 
