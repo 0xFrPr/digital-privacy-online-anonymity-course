@@ -227,10 +227,13 @@ This section contains the external links mentioned throughout the guide, organiz
 | Platform | Purpose | Link |
 |---|---|---|
 | CryptPad | تعاون ومشاركة ملفات بتركيز على الخصوصية | https://cryptpad.fr/ |
-| AnonArchive | مشاركة أو أرشفة ملفات بشكل عام | https://anonarchive.org/ |
+| OnionShare | مشاركة ملفات بشكل خاص عبر Tor onion service | https://onionshare.org/ |
+| Wormhole | مشاركة ملفات مؤقتة برابط مشفر ينتهي تلقائيًا | https://wormhole.app/ |
 | Filen | تخزين سحابي يركز على الخصوصية | https://filen.io/ |
 | IPFS | نشر وتوزيع ملفات بطريقة لامركزية | https://ipfs.tech/ |
 | Pinata | خدمة pinning لـ IPFS | https://www.pinata.cloud/ |
+
+> Note: AnonArchive was removed from the resource list because its current official domain could not be verified reliably. OnionShare and Wormhole are listed as clearer alternatives for private or temporary file sharing.
 
 ---
 
@@ -259,4 +262,4 @@ digital-privacy-online-anonymity-course/
 │
 ├── README.md
 ├── cover.png
-└── Digital-Privacy-Online-Anonymity-Course.pdf
+└── Digital Privacy & Online Anonymity Course.pdf
